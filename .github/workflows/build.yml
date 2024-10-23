@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint-test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
